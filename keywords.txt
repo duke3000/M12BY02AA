@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map For M12BY02AA
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Vfd KEYWORD2
+init KEYWORD2
+clear KEYWORD2
+ledControl KEYWORD2
+sendMessage KEYWORD2
+sendChar KEYWORD2
+dataStart KEYWORD2
+dataStop KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ledYellowBit LITERAL1
+ledGreenBit LITERAL1
+ledRedBit LITERAL1
+ledGreenOn LITERAL1
+ledYellowOn LITERAL1
+ledRedOn LITERAL1
+ledAllOn LITERAL1
+ledAllOff LITERAL1
+vfdIdBase LITERAL1
+vfdI2cId LITERAL1
+vfdOutLed LITERAL1
+vfdOutRam LITERAL1
+vfdOutRamAutoIncrement LITERAL1
+ramStartAddr LITERAL1
