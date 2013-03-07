@@ -1,7 +1,7 @@
 /*
  M12BY02AA_Library_Example.pde - Hello World for Futaba M12BY02AA vacuum fluorescent display library
  
- Author: Simon Schori <simon.schori@gmail.com>
+ Author: duke3000
  Version: 0.1
  
  Datasheet: http://docs-asia.electrocomponents.com/webdocs/0f06/0900766b80f06185.pdf
