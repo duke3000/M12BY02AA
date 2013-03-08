@@ -18,4 +18,4 @@ M12BY02AA
   - reduce vfd flickering at every update
   - store brightness in eeprom
   - clean up code
-  - 
+  - ...
