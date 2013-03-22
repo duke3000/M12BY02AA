@@ -3,8 +3,8 @@ M12BY02AA
 
  I2C driver for Futaba M12BY02AA vacuum fluorescent display
  
- Author: Simon Schori
- Version: 0.2
+ Author: Simon Schori <simon.schori@gmail.com>
+ Version: 0.3
  
  Datasheet: http://docs-asia.electrocomponents.com/webdocs/0f06/0900766b80f06185.pdf
  

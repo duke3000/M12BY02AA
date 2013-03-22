@@ -1,8 +1,8 @@
 /*
  M12BY02AA_Library_Example.pde - Hello World for Futaba M12BY02AA vacuum fluorescent display library
  
- Author: duke3000
- Version: 0.1
+ Author: Simon Schori <simon.schori@gmail.com>
+ Version: 0.2
  
  Datasheet: http://docs-asia.electrocomponents.com/webdocs/0f06/0900766b80f06185.pdf
  
@@ -23,14 +23,14 @@ void setup() {
 }
 
 void loop() {
-  vfd.ledControl('r',0); // disable red LED
-  vfd.ledControl('y',1); // enable yellow LED
+  vfd.ledControl(RED,0); // disable red LED
+  vfd.ledControl(YELLOW,1); // enable yellow LED
   delay(time);
-  vfd.ledControl('y',0); // disable yellow LED
-  vfd.ledControl('g',1); // enable green LED
+  vfd.ledControl(YELLOW,0); // disable yellow LED
+  vfd.ledControl(GREEN,1); // enable green LED
   delay(time);
-  vfd.ledControl('g',0); // disable green LED
-  vfd.ledControl('r',1); // enable red LED
+  vfd.ledControl(GREEN,0); // disable green LED
+  vfd.ledControl(RED,1); // enable red LED
   delay(time);
 }
 
